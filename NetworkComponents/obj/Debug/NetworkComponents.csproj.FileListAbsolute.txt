@@ -1,0 +1,12 @@
+C:\Users\Tomcii\source\repos\NetworkÜbung\NetworkComponents\bin\Debug\NetworkComponents.dll
+C:\Users\Tomcii\source\repos\NetworkÜbung\NetworkComponents\bin\Debug\NetworkComponents.pdb
+C:\Users\Tomcii\source\repos\NetworkÜbung\NetworkComponents\obj\Debug\NetworkComponents.csprojAssemblyReference.cache
+C:\Users\Tomcii\source\repos\NetworkÜbung\NetworkComponents\obj\Debug\NetworkComponents.csproj.CoreCompileInputs.cache
+C:\Users\Tomcii\source\repos\NetworkÜbung\NetworkComponents\obj\Debug\NetworkComponents.dll
+C:\Users\Tomcii\source\repos\NetworkÜbung\NetworkComponents\obj\Debug\NetworkComponents.pdb
+C:\Users\Tomcii\Desktop\Aufgabe1_Thomas_Horvath\NetworkComponents\bin\Debug\NetworkComponents.dll
+C:\Users\Tomcii\Desktop\Aufgabe1_Thomas_Horvath\NetworkComponents\bin\Debug\NetworkComponents.pdb
+C:\Users\Tomcii\Desktop\Aufgabe1_Thomas_Horvath\NetworkComponents\obj\Debug\NetworkComponents.csprojAssemblyReference.cache
+C:\Users\Tomcii\Desktop\Aufgabe1_Thomas_Horvath\NetworkComponents\obj\Debug\NetworkComponents.csproj.CoreCompileInputs.cache
+C:\Users\Tomcii\Desktop\Aufgabe1_Thomas_Horvath\NetworkComponents\obj\Debug\NetworkComponents.dll
+C:\Users\Tomcii\Desktop\Aufgabe1_Thomas_Horvath\NetworkComponents\obj\Debug\NetworkComponents.pdb
